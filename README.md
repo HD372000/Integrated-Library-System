@@ -5,6 +5,6 @@ New books can be added to database, books can be removed, updates can be done in
 information of the books can be retrieved. Similarly, borrowers can be
 Added/removed whose separate database can be maintained.
 
-Language - Python, SQL
-Frontend -Tkinter TCL/TK
+Language - Python, SQL, 
+Frontend -Tkinter TCL/TK, 
 Backend -SQLite3 
